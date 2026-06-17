@@ -1,0 +1,17 @@
+{
+  "Electronics": {
+    "index": 50,
+    "direction": "flat",
+    "fetched_at": "2026-06-17T13:55:27.815051"
+  },
+  "Clothing": {
+    "index": 50,
+    "direction": "flat",
+    "fetched_at": "2026-06-17T13:55:28.431525"
+  },
+  "Home Goods": {
+    "index": 50,
+    "direction": "flat",
+    "fetched_at": "2026-06-17T13:55:28.979638"
+  }
+}

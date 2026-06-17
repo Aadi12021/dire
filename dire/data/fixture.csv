@@ -1,0 +1,34 @@
+Date,Store ID,Product ID,Category,Region,Inventory Level,Units Sold,Units Ordered,Demand Forecast,Price,Weather Condition,Holiday/Promotion
+2024-01-01,S01,P001,Electronics,North,200,30,50,35,100.0,Sunny,0
+2024-01-15,S01,P001,Electronics,North,170,20,50,35,100.0,Cloudy,0
+2024-02-01,S01,P001,Electronics,North,150,15,30,20,100.0,Sunny,0
+2024-02-20,S01,P001,Electronics,North,135,10,30,20,100.0,Cloudy,0
+2024-03-10,S01,P001,Electronics,North,125,8,20,15,100.0,Sunny,0
+2023-10-01,S02,P002,Clothing,South,80,0,20,10,50.0,Rainy,0
+2023-11-01,S02,P002,Clothing,South,80,0,20,10,50.0,Sunny,0
+2023-12-01,S02,P002,Clothing,South,80,0,20,10,50.0,Cloudy,0
+2024-01-01,S02,P002,Clothing,South,80,0,20,10,50.0,Sunny,0
+2024-01-15,S02,P002,Clothing,South,80,0,20,10,50.0,Rainy,0
+2024-02-01,S02,P002,Clothing,South,80,0,20,10,50.0,Cloudy,0
+2024-03-10,S02,P002,Clothing,South,80,0,20,10,50.0,Sunny,0
+2023-10-01,S01,P002,Clothing,North,40,12,20,10,50.0,Sunny,0
+2023-11-01,S01,P002,Clothing,North,28,10,20,10,50.0,Cloudy,0
+2023-12-01,S01,P002,Clothing,North,18,8,20,10,50.0,Sunny,0
+2024-01-01,S01,P002,Clothing,North,10,6,20,10,50.0,Cloudy,0
+2024-01-15,S01,P002,Clothing,North,10,6,20,10,50.0,Sunny,0
+2024-02-01,S01,P002,Clothing,North,10,4,20,10,50.0,Cloudy,0
+2024-03-10,S01,P002,Clothing,North,6,0,20,10,50.0,Sunny,0
+2023-10-01,S03,P003,Home Goods,East,6,0,5,2,30.0,Sunny,0
+2023-11-01,S03,P003,Home Goods,East,6,0,5,2,30.0,Cloudy,0
+2023-12-01,S03,P003,Home Goods,East,6,0,5,2,30.0,Sunny,0
+2024-01-01,S03,P003,Home Goods,East,6,0,5,2,30.0,Rainy,0
+2024-01-15,S03,P003,Home Goods,East,6,0,5,2,30.0,Cloudy,0
+2024-02-01,S03,P003,Home Goods,East,6,0,5,2,30.0,Sunny,0
+2024-03-10,S03,P003,Home Goods,East,6,0,5,2,30.0,Sunny,0
+2023-10-01,S03,P004,Home Goods,East,50,0,10,5,25.0,Sunny,0
+2023-11-01,S03,P004,Home Goods,East,50,0,10,5,25.0,Cloudy,0
+2023-12-01,S03,P004,Home Goods,East,50,0,10,5,25.0,Sunny,0
+2024-01-01,S03,P004,Home Goods,East,50,0,10,5,25.0,Rainy,0
+2024-01-15,S03,P004,Home Goods,East,50,0,10,5,25.0,Cloudy,0
+2024-02-01,S03,P004,Home Goods,East,50,0,10,5,25.0,Sunny,0
+2024-03-10,S03,P004,Home Goods,East,50,0,10,5,25.0,Rainy,0
