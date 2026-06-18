@@ -1,0 +1,6 @@
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+dire/data/.trends_cache.json
